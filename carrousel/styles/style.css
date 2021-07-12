@@ -62,7 +62,7 @@ body{
     bottom: 0;
 }
 
-/*.carousel-item__details {
+.carousel-item__details {
     background-color: linear-gradient(to top, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0) 100%);
     font-size: 10px;
     opacity: 0;
@@ -89,6 +89,6 @@ body{
 .carousel-item__details--title, .carousel-item__details--subtitle  {
     color: #ffffff;
 }
-*/
+
 
 /* recordar hacer el tema del hover y los textos*/
